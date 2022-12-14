@@ -1,11 +1,10 @@
 /**
  * print_alphabet - Entry main
- */
 #include "main.h"
 
 /**
  * print_alphabet - Entry main
- * Return: Always 0 
+ * Return: Always 0
  */
 int main(void)
 {
