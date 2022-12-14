@@ -1,5 +1,5 @@
 /**
- * main - Entry points
+ * point - Entry points
  */
 int _putchar(char c);
 
