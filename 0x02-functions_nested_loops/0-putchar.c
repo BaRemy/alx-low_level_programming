@@ -1,3 +1,6 @@
+/**
+ * print_alphabet - Entry point
+ */
 #include "main.h"
 /**
  * print_alphabet - Entry point
