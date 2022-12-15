@@ -33,7 +33,5 @@ int times_table(void)
 			}
 	}
 		_putchar('\n');
-		return (' ');
 	}
-	return (0);
 }
