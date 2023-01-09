@@ -1,1 +1,1 @@
-C lang
+C - argc, argv
