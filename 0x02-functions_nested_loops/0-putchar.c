@@ -2,8 +2,6 @@
 #include <stdio.h>
 /**
  * main - Entry point
- * @c: Character to print to
- * 	standard output
  * Return: 0
  */
 int main(void)
