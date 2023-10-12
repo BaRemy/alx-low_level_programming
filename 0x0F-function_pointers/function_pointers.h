@@ -1,9 +1,10 @@
-#include <stddef.h>
 #ifndef FUNCTION_POINTERS_H
 #define FUNCTION_POINTERS_H
+#include <stddef.h>
 /**
- * File: main
- *
+ * File - main
+ * @name: string to add
+ * @f: pointer to function
  * Desc: header file
  */
 void print_name(char *name, void (*f)(char *));
