@@ -2,7 +2,9 @@
 #define MAIN_H
 
 /**
- * File: main.h
+ * _putchar - print to character to stdout.
+ * @c: Character to print
+ * Return: 1 is returned (Success), -1 is returned (Error)
  *
  * Desc: Header file containing prototypes for all functions
  * written in the 0x13-bit_manipulation directory.
